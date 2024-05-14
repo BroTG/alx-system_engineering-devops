@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# using ping for an IP addres pings 5 times
+fping -c 5
